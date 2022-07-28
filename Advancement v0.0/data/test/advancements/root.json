@@ -1,0 +1,26 @@
+{
+"display": {
+  "title": "チート",
+  "description": "コマンドブロックを入手する",
+  "icon": {
+    "item": "minecraft:command_block"
+  },
+  "frame": "challenge",
+  "background": "minecraft:textures/block/iron_block.png"
+},
+"criteria": {
+  "example": {
+    "trigger": "minecraft:inventory_changed",
+    "conditions": {
+      "items": [
+        {
+          "item": "minecraft:command_block"
+        }
+      ]
+    }
+  }
+},
+"rewards": {
+  "experience": 100
+}
+}

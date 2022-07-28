@@ -1,0 +1,25 @@
+{
+"display": {
+"title": "とっても固い",
+"description": "岩盤をゲットする",
+"icon": {
+"item": "minecraft:bedrock"
+}
+},
+    "parent": "test:root",
+"criteria": {
+"getDiamond": {
+"trigger": "minecraft:inventory_changed",
+"conditions": {
+"items": [
+{
+"item": "minecraft:bedrock"
+}
+]
+}
+}
+},
+"rewards": {
+"experience": 1000
+}
+}
