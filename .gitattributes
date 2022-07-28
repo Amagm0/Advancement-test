@@ -1,0 +1,10 @@
+* text=auto
+docs/* linguist-documentation
+*.md linguist-documentation
+cache/* linguist-vendored
+log/* linguist-vendored
+vendor/* linguist-vendored
+node_modules/* linguist-vendored
+*.log linguist-detectable=false
+.gitignore export-ignore
+.gitattributes export-ignore
