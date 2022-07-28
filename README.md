@@ -10,3 +10,5 @@ Minecraft JavaEdition V1.18.2のAdnvancementsテストリポジトリ
 
 コマンド
 /advancement grant @s only (test:root or test:2)
+
+※改変・再配布等自由
