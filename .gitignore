@@ -4,8 +4,6 @@
 *.iml
 *.ipr
 *.iws
-*.java
-*.json
 
 # IntelliJ
 out/
